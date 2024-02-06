@@ -1,5 +1,4 @@
 
-![BankEngland](https://github.com/RafaSatti/BoE-Sentiment-Analysis-/assets/121511244/af4a7a34-63e1-498f-88f0-ba0fdb1d1d46)
 
 # BoE Sentiment Analysis
 
